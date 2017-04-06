@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0CA71F06-5DCB-44BD-B0EF-071727147D1E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp6_alg</RootNamespace>
-    <AssemblyName>ConsoleApp6_alg</AssemblyName>
+    <RootNamespace>FindDups</RootNamespace>
+    <AssemblyName>FindDups</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
