@@ -44,6 +44,11 @@ public class Program
             Console.WriteLine(string.Join("\n", file.Files));
             Console.WriteLine();
         }
+
+        if(counter == 0)
+        {
+            Console.WriteLine("No duplications found");
+        }
     }
 
     static string GetHash(string path)
